@@ -1,0 +1,2 @@
+Humanos: 23
+Animales: 24
